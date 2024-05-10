@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ibrahim/ros2_ws/install/turtlebot3_fake_node/include/**",
+        "/home/ibrahim/ros2_ws/install/turtlebot3_msgs/include/**",
+        "/home/ibrahim/ros2_ws/install/turtlebot3_gazebo/include/**",
+        "/home/ibrahim/ros2_ws/install/sjtu_drone_description/include/**",
+        "/home/ibrahim/ros2_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/ibrahim/ros2_ws/install/dynamixel_sdk/include/**",
+        "/home/ibrahim/ros2_ws/install/cpp_package/include/**",
+        "/home/ibrahim/install/micro_ros_agent/include/**",
+        "/home/ibrahim/install/micro_ros_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/ibrahim/Algorithms-for-Path-Planning/driving_ws/src/Frenet_Planner_Simulation/Frenet_Planner_AGV/frenet_planner_agv/include/**",
+        "/home/ibrahim/Algorithms-for-Path-Planning/driving_ws/src/Frenet_Planner_Simulation/laser_filters/include/**",
+        "/home/ibrahim/Algorithms-for-Path-Planning/drone_ws/src/srv_client_plugin/include/**",
+        "/home/ibrahim/Algorithms-for-Path-Planning/husky_ws/src/base_local_planner/include/**",
+        "/home/ibrahim/Algorithms-for-Path-Planning/husky_ws/src/costmap_2d/include/**",
+        "/home/ibrahim/Algorithms-for-Path-Planning/husky_ws/src/dwa_local_planner/include/**",
+        "/home/ibrahim/Algorithms-for-Path-Planning/husky_ws/src/nav_core/include/**",
+        "/home/ibrahim/Algorithms-for-Path-Planning/husky_ws/src/voxel_grid/include/**",
+        "/home/ibrahim/Algorithms-for-Path-Planning/spot_ws/src/srv_client_plugin/include/**",
+        "/home/ibrahim/Algorithms-for-Path-Planning/turtlebot3_ws/src/srv_client_plugin/include/**",
+        "/home/ibrahim/Algorithms-for-Path-Planning/ur5_ws/src/lerp_motion_planner/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
